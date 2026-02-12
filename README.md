@@ -1,3 +1,8 @@
+
+                                                                                                                
+                                                                                                                #I'm DHRUV SEMWAL
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 # 💫 About Me:
 🔭 I’m currently working on: A Customer Churn Prediction model using Random Forest and XGBoost to identify at-risk users. I am implementing SMOTE to handle class imbalance and using SHAP values to provide business-ready model explainability.<br><br>👯 I’m looking to collaborate on: Open-source AI initiatives and freelance projects that involve data modeling, predictive analytics, or automation.<br><br>🤝 I’m looking for help with: Advanced algorithmic problem-solving and optimizing machine learning workflows for better scalability.<br><br>🌱 I’m currently learning: AI fundamentals, including the transition from traditional ML to Generative AI architectures.<br><br>💬 Ask me about: Customer Segmentation using K-Means clustering, handling high-dimensional data, or evaluating model performance beyond simple accuracy.<br><br>⚡ Fun fact: I’m a self-motivated tech enthusiast who loves finding ways to automate complex tasks with a few lines of code.
 
