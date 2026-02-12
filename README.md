@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semwal28&label=Profile%20views&color=0e75b6&style=flat" alt="semwal28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semwal28" alt="semwal28" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@dhruvsemwa91734" target="blank"><img src="https://img.shields.io/twitter/follow/@dhruvsemwa91734?logo=twitter&style=for-the-badge" alt="@dhruvsemwa91734" /></a> </p>
-
 - 🔭 I’m currently working on **A Customer Churn Prediction model using Random Forest and XGBoost to identify at-risk users. I am implementing SMOTE to handle class imbalance and using SHAP values to provide business-ready model explainability.**
 
 - 🌱 I’m currently learning **AI fundamentals, including the transition from traditional ML to Generative AI architectures.**
